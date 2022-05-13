@@ -1,0 +1,21 @@
+
+PRINCIPAIS COMANDOS PARA GIT BASH:
+
+pwd -> Mostra o caminho para o diretório atual.
+ls -> Mostra o conteúdo do diretório atual.
+ls -la -> Também mostra o conteúdo como lista.
+cd -> Muda o diretório para o caminho especificado.
+mkdir -> Cria um diretório.
+touch -> Cria um arquivo vazio.
+cat nome_do_arquivo -> Mostrar o conteúdo do arquivo.
+mv -> Move um arquivo ou diretório (ex: mv 'o que quero transf' destino)
+cp -> Cria uma cópia.
+cd ~ -> para voltar um diretório.
+cd .. -> Também volta para o diretório anterior.
+rm -rf -> Remover arquivos ou diretórios.
+git init -> Cria um repositório git.
+git add -> Adiciona o arquivo para o próximo commit. Também serve para rastrear.
+git status -> Indica o status dos arquivos adicionados, se são restráveis ou não,  se foram modificados ou se existem arquivos a serem comitados.
+git commit -m 'mensagem de commit' -> para comitar os arquivos modificados.
+cp ../pasta de origem/arquivo a ser copiado cópia do arquivo(file.txt.bkp) -> Para copiar um arquivo de uma pasta, estando dentro de uma outra pasta.
+git restore --staged nome_do_arquivo -> Para tirar o arquivo da área de staged.
