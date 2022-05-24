@@ -3,6 +3,7 @@
         "Metodos",
         "ControleFluxo",
         "EstruturasRepeticao",
-        "Arrays"
+        "Arrays",
+        "List"
     ]
 }
